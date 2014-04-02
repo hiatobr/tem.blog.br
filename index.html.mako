@@ -2,10 +2,14 @@
 <article class="page_box">
 <%self:filter chain="markdown">
 
-Não Tem Blog .BR
+Alguém Tem Blog .BR
 ====================
 
-Este é um serviço de hospedagem de blogs que usa o software [Blogofile](http://www.blogofile.com).
+Este é blog hospedado em [Tem Blog .BR](http://tem.blog.br).
+
+Tem Blog .BR é um serviço de hospedagem de blogs que usa o software [Blogofile](http://www.blogofile.com).
+
+Esta página está aqui porque o autor deste blog esqueceu ou ainda não alterou ela.
 
 Para saber mais sobre este serviço, acesse [sobre](http://ninguem.tem.blog.br/tutorial/sobre).
 
