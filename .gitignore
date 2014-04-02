@@ -1,0 +1,26 @@
+## Linux
+.*
+!.gitignore
+*~
+
+## Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+## Python
+__pycache__/
+*.py[cod]
+
+## Vim
+[._]*.s[a-w][a-z]
+[._]s[a-w][a-z]
+*.un~
+
+## Blogofile
+_site/
+
+## Recalque de um pythonzeiro
+default.asp
+index.php
+
