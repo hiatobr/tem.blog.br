@@ -3,7 +3,7 @@
   <div id="footer" class="grid_12">
     <div class="grid_8">
       <p>
-        <a href="${bf.util.site_path_helper(bf.config.blog.path,'feed','index.xml')}">RSS das Not&iacute;cias</a>
+        <a href="${bf.util.site_path_helper(bf.config.blog.path,'feed','index.xml')}">RSS das Postagens</a>
         % if bf.config.blog.disqus.enabled:
         <a href="http://${bf.config.blog.disqus.name}.disqus.com/latest.rss">RSS dos Comment&aacute;rios</a>.
         % endif
